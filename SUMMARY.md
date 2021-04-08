@@ -19,7 +19,6 @@
 
 * [Tokenomics](tokenomics-1/tokenomics/README.md)
   * [Anonymity Mining](tokenomics-1/tokenomics/anonymity_mining.md)
-  * [DAO Treasury](tokenomics-1/tokenomics/dao-treasury.md)
 
 ## Team
 
