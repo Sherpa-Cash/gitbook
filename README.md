@@ -6,7 +6,7 @@ Sherpa Cash is a fork of Tornado Cash, a fully decentralized protocol for privat
 
 ### Why the name Sherpa Cash?
 
-Sherpas regularly deal with unexpected weather, predators, obscured paths, and many other obstacles. A great Sherpa makes quick adjustments to prevent any major setback. This ability to assess, react, and adapt is critical to great leadership and teamwork. As active contributors to the Avalanche community,  we're here to be your Sherpas: trusted and helpful people you can rely on.
+Sherpas regularly deal with unexpected weather, predators, obscured paths, and many other obstacles. A great Sherpa makes quick adjustments to prevent any major setback. This ability to assess, react, and adapt is critical to great leadership and teamwork. As active contributors to the Avalanche community,  we're here to be your Sherpas: the trusted and helpful people you can rely on.
 
 ### The goal of Sherpa Cash
 
