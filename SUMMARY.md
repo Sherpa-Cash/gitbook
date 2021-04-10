@@ -2,14 +2,10 @@
 
 * [Welcome to Sherpa Cash](README.md)
 
-## Getting Started
+## How it Works
 
-* [Tutorial](getting-started/tutorial.md)
-
-## Protocol
-
-* [Whitepaper](protocol/whitepaper.md)
-* [ELI5](protocol/eli5.md)
+* [How It Works](how-it-works/how-it-works.md)
+* [Whitepaper](how-it-works/whitepaper.md)
 
 ## Security
 
