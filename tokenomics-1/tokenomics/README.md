@@ -1,14 +1,22 @@
+---
+description: Details of how we will distribute SHERPA token
+---
+
 # Tokenomics
 
-Sherpa Cash was launched on &lt;DATE&gt;.
+Sherpa Cash will be launching soon.
 
-It has a hard supply cap of 10,000,000 SHERPA with the following distribution:
+There is a supply cap of 10,000,000 SHERPA with the following distribution:
 
 | Percent | Amount | Description |
 | :--- | :---: | ---: |
-| 50% | 5,000,000 | Anonymity Mining |
+| 39% | 3,900,000 | Anonymity Mining |
 | 25% | 2,500,000 | DAO Treasury |
-| 15% | 1,500,000 | Founding team vested over 1 year and unlocked every 3 months |
-| 5% | 500,000 | Airdrop to early users before block &lt;&lt;BLOCKHEIGHT&gt;&gt; |
-| 5% | 500,000 | Airdrop to Tornado Cash users to their C-Chain wallet on block &lt;&lt;BLOCKHEIGHT&gt;&gt; |
+| 16% | 1,600,000 | Founding team \(with vesting schedule\) |
+| 10% | 1,000,000 | Initial Token Sale |
+| 5% | 500,000 | Airdrops |
+| 4% | 400,000 | Bounties for community contributors |
+| 1% | 100,000 | Airdrop to Tornado Cash |
+
+
 
