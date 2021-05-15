@@ -10,7 +10,7 @@ If it ever becomes necessary to show the origin of your assets you can provide c
 
 At the time of deposit, Sherpa.cash generates a private Note that is used later to withdraw funds and can also be used to show their origin.
 
-![](../../.gitbook/assets/screen-shot-2021-04-21-at-3.31.50-pm.png)
+![](../../.gitbook/assets/screen-shot-2021-04-21-at-3.31.50-pm%20%281%29.png)
 
 
 
