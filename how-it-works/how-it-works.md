@@ -27,7 +27,7 @@ sherpa-eth-0.1-1-0x07f00caa131a209ac0db1401be7f2f568d8a49f0459e92a5b9e28610ac71f
 
 ### **Anonymity Set**
 
-* The anonymity set is is the number of deposits your withdrawal could potentially originate from. 
+* The anonymity set is the number of deposits your withdrawal could potentially originate from. 
 * If the anonymity set is 1, then the withdrawal will inexplicably be linked to your deposit. 
 * So the higher the number, the harder it is for your withdrawal to be linked to your deposit.
 * Because of this, we often advise to wait a bit for the anonymity set to increase before withdrawing.

@@ -15,9 +15,9 @@ The team is made up of well-known and trusted members of the Avalanche community
 | [The Abominable Sasquatch](https://twitter.com/AbominableSas) | Advisor | Snowball |
 | [Bmino ](https://twitter.com/bmino_)\(Brandon\) | Developer | Snowball, Pangolin Exchange |
 | Benny | Developer | Pangolin Exchange |
-| [Tyler Smith](https://twitter.com/tcrypt25519) | Advisor | AvaLabs Cryptography |
+| [Tyler Smith](https://twitter.com/tcrypt25519) | Advisor | AvaLabs, Cryptography |
 | [Rabib](https://twitter.com/___rabib___) | Developer | Cryptography, Mathematics, Data Science |
-| [Dr. Omer Demirelo](https://twitter.com/demirelo) | Advisor | Zurich, New Work City |
+| [Dr. Omer Demirel](https://twitter.com/demirelo) | Advisor | Zurich, New Work City |
 
   
 
