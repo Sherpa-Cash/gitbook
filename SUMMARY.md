@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Intro to Sherpa Cash](README.md)
-* [Road Map](road-map.md)
+* [Roadmap](road-map.md)
 
 ## How it Works
 
