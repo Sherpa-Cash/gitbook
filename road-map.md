@@ -22,7 +22,7 @@ description: The Sherpa Cash vision for the future
 
 ### July - September 2021
 
-* **Subnet Integration** - Integrate with x-chain and Avalanche subnets
+* **Subnet Integration** - Integrate with X-chain and Avalanche subnets
 * **Partnerships** - Form partnerships with projects across the Avalanche ecosystem
 * **Relayer Integration** - Implement relayer functionality for additional privacy
 * **Additional Token Support** - Add more tokens to our supported token list.
