@@ -2,7 +2,7 @@
 description: The Sherpa Cash vision for the future
 ---
 
-# Road Map
+# Roadmap
 
 ### **April 2021:**
 
@@ -12,7 +12,7 @@ description: The Sherpa Cash vision for the future
 
 ### **May - June 2021:**
 
-* **Mainnet Launch** - Launch the Sherpa Cash app on Avalanche mainnet
+* **Mainnet Launch** - Launch the Sherpa Cash app on Avalanche mainnet (V1 launch will be on the Avalanche C-Chain)
 * **Marketing Campaign** - Spread the word about Sherpa Cash through social media and various platforms.
 * **Token Launch & Public Sale** - Create the SHERPA token as ARC-20 and have a public sale through Avalaunch
 * **Trusted Ceremony** - Conduct a trusted ceremony process with a target of 1000 participants.
