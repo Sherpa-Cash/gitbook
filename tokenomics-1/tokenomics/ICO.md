@@ -17,6 +17,6 @@ To participate, create content about Sherpa Cash and share the URL under [**this
 
 The deadline for content submission is May 31st – 12 a.m. \(GMT\).
 
-#### ***Evaluation***
+#### **Evaluation**
 
 Evaluation of the content will be fairly and openly evaluated by a jury of people known and trusted by the Avalanche community.
