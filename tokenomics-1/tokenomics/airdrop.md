@@ -14,7 +14,7 @@ First 100 and 900 random users that filled out our social media airdrop form are
 Submissions for the social media airdrop are now closed. Thank you everyone for participating. We’ll be reviewing the submissions and sending e-mails to selected participants over the next week.
   
 **Trusted Ceremony Participants \(100,000 SHERPA\)**  
-To qualify, users will need to participate in our trusted ceremony process. Details to follow.
+To qualify, users will need to participate in our trusted ceremony process\(i.e., a process that lets the community help generate zkSNARKs keys that are used to secure Sherpa Cash. \). Details to follow.
 
 **Early Users \(100,000 SHERPA\)**  
 To qualify, users will need to make a deposit transaction into the Sherpa Cash app. Qualifying wallets will be eligible to claim 100 SHERPA, capped at 1000 total wallets.
