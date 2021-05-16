@@ -8,19 +8,19 @@ description: Private transactions on the Avalanche Network
 
 ### What is Sherpa Cash?
 
-Sherpa Cash is a fully decentralized protocol for private transactions based on zkSNARKS. It offers the option of private transactions on the Avalanche network: Our protocol is basically a proxy between the sender and receiver to keep transactions private and anonymous. It is also a fork of Tornado Cash, which has pioneered privacy transactions on the Ethereum network and continues to be the gold standard of privacy.
+Sherpa Cash is a fully decentralized protocol for private transactions based on zkSNARKS. Acting like a proxy between the sender and the receiver, it keeps transactions private and anonymous on the Avalanche network.
+
+Sherpa Cash is the first privacy solution Avalanche. It is also a fork of Tornado Cash, which has pioneered privacy transactions on the Ethereum network and continues to be the gold standard of privacy.
 
 The project and team are formed by engineers from established Avalanche DeFi projects.
 
-Sherpa Cash is also proud to be the first privacy solution on Avalanche.  So if you’re someone who doesn’t like others being able to trace your transactions, then what Sherpa Cash has to offer may interest you.
-
 ### The goal of Sherpa Cash
 
-Private transactions are an essential building block for a robust DeFi ecosystem. Avalanche is still in its early days and no privacy protocol currently exists for it. 
+Private transactions are an essential building block for a robust DeFi ecosystem. Avalanche is still in its early days, and no privacy protocol currently exists for it. 
 
 Thus, Sherpa is excited to bring a robust privacy transaction network to Avalanche DeFi, driven by community governance through the Sherpa token. In that regard, we hope to bring this essential need to users and projects on the Avalanche Network.
 
-Initially, Sherpa Cash will be governed by the founding team. Ultimately control of the project will be transferred to the community, where day-to-day operations, business strategy and token utility will be governed by community vote.
+Initially, Sherpa Cash will be governed by the founding team. Ultimately, control of the project will be transferred to the community, where day-to-day operations, business strategy, and token utility will be governed by community vote.
 
 ### Why the name Sherpa Cash?
 
