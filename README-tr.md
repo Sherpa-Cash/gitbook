@@ -33,6 +33,7 @@ Avalanche topluluğuna aktif olarak katkıda bulunan kişiler olarak, güvenebil
 ### Uluslararası Telegram Kanalları
 
 * \*\*\*\*[**Çince**](https://t.me/sherpa_cash_cn)\*\*\*\*
+* \*\*\*\*[**Farsça**](https://t.me/sherpa_cash_persian)\*\*\*\*
 * \*\*\*\*[**Fransızca**](https://t.me/sherpa_cash_fr)\*\*\*\*
 * \*\*\*\*[**İspanyolca**](https://t.me/sherpa_cash_spanish)\*\*\*\*
 * \*\*\*\*[**Japonca**](https://t.me/sherpa_cash_jp)\*\*\*\*
