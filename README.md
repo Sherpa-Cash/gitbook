@@ -33,6 +33,7 @@ As active contributors to the Avalanche community, we're here to be your Sherpas
 ### International Telegram Channels
 
 * \*\*\*\*[**Chinese**](https://t.me/sherpa_cash_cn)\*\*\*\*
+* \*\*\*\*[**English**](https://t.me/sherpa_cash)\*\*\*\*
 * \*\*\*\*[**French**](https://t.me/sherpa_cash_fr)\*\*\*\*
 * \*\*\*\*[**Japanese**](https://t.me/sherpa_cash_jp)\*\*\*\*
 * \*\*\*\*[**Spanish**](https://t.me/sherpa_cash_spanish)\*\*\*\*
