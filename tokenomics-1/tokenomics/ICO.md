@@ -4,7 +4,11 @@ description: Information regarding the ICO and the ICO Whitelist
 
 # ICO
 
-Sherpa Cash will be coordinating with [**Avalaunch**](https://avalaunch.app/)\(a launchpad powered by the Avalanche platform\) for its initial token sale. Details to follow.
+Sherpa Cash will be coordinating with [**Avalaunch**](https://avalaunch.app/)\(a launchpad powered by the Avalanche platform\) for its initial token sale. 
+
+The SHERPA token address is: 0x6c0ec8f309f56e1d4784454bbad416efd09ed068
+
+Details to follow.
 
 ### **Whitelist**
 
