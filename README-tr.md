@@ -35,6 +35,7 @@ Avalanche topluluğuna aktif olarak katkıda bulunan kişiler olarak, güvenebil
 * \*\*\*\*[**Çince**](https://t.me/sherpa_cash_cn)\*\*\*\*
 * \*\*\*\*[**Farsça**](https://t.me/sherpa_cash_persian)\*\*\*\*
 * \*\*\*\*[**Fransızca**](https://t.me/sherpa_cash_fr)\*\*\*\*
+* \*\*\*\*[**İngilizce**](https://t.me/sherpa_cash)\*\*\*\*
 * \*\*\*\*[**İspanyolca**](https://t.me/sherpa_cash_spanish)\*\*\*\*
 * \*\*\*\*[**Japonca**](https://t.me/sherpa_cash_jp)\*\*\*\*
 * \*\*\*\*[**Türkçe**](https://t.me/sherpa_cash_turkey)\*\*\*\*
