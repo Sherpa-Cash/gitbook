@@ -12,7 +12,9 @@ Sherpa Cash is a fully decentralized protocol for private transactions based on 
 
 ### The goal of Sherpa Cash
 
-Private transactions are an essential building block for a robust DeFi ecosystem. Avalanche is still in its early days and no privacy protocol currently exists for it. Sherpa Cash hopes to bring this essential need to users and projects on the Avalanche Network.
+Private transactions are an essential building block for a robust DeFi ecosystem. Avalanche is still in its early days and no privacy protocol currently exists for it. 
+
+Thus, Sherpa is excited to bring a robust privacy transaction network to Avalanche DeFi, driven by community governance through the Sherpa token. In that regard, we hope to bring this essential need to users and projects on the Avalanche Network.
 
 Initially, Sherpa Cash will be governed by the founding team. Ultimately control of the project will be transferred to the community, where day-to-day operations, business strategy and token utility will be governed by community vote.
 
