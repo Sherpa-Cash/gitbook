@@ -9,7 +9,9 @@ description: >-
 We are airdropping 400,000 total SHERPA tokens to early users of Sherpa Cash and delegators to our validator node.
 
 **Social Media Airdrop \(200,000 SHERPA\) - Ended on 5/13/21**  
-1000 users that filled out our social media airdrop form are randomly selected for 200 SHERPA.  
+First 100 and randomly selected 900 users that filled out our social media airdrop form are selected for 200 SHERPA. (Total submissions: 7075)
+
+Submissions for the social media airdrop are now closed. Thank you everyone for participating. We’ll be reviewing the submissions and sending e-mails to selected participants over the next week.
   
 **Trusted Ceremony Participants \(100,000 SHERPA\)**  
 To qualify, users will need to participate in our trusted ceremony process. Details to follow.
