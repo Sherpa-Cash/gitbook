@@ -20,7 +20,7 @@ description: Sherpa Cash'in gelecek için vizyonu
 * **Anonimlik Madenciliği** - Anonimlik Madenciliği programının uygulanması
 * **Token Takip Platformları** - SHERPA'nın, tokenları listeleyen çeşitli fiyat takip platformlarına eklenmesi \(Örn. CoinGecko, Defi Llama, Markr.io\)
 
-### Temmuz - Ağustos 2021
+### Temmuz - Eylül 2021
 
 * **Subnet Entegrasyonu** - X-chain ve Avalanche’ın alt ağları ile entegrasyon yapılması
 * **Partnerlikler** - Avalanche ekosisteminde bulunan projelerle partnerlik yapılması

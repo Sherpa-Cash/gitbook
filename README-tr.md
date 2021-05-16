@@ -24,8 +24,18 @@ Avalanche topluluğuna aktif olarak katkıda bulunan kişiler olarak, güvenebil
 
 ### Resmi Bağlantılar
 
-* \*\*\*\*[**Websitesi**](https://sherpa.cash)\*\*\*\*
-* \*\*\*\*[**Discord**](https://discord.com/invite/8bWeGSB4Zx)\*\*\*\*
-* \*\*\*\*[**Telegram**](https://t.me/sherpacash)\*\*\*\*
-* \*\*\*\*[**Twitter**](https://twitter.com/sherpa_cash)\*\*\*\*
-* \*\*\*\*[**Github**](https://github.com/Sherpa-Cash)\*\*\*\*
+* [**Websitesi**](https://sherpa.cash)
+* [**Discord**](https://discord.com/invite/8bWeGSB4Zx)
+* [**Telegram**](https://t.me/sherpacash)
+* [**Twitter**](https://twitter.com/sherpa_cash)
+* [**Github**](https://github.com/Sherpa-Cash)
+
+### Uluslararası Telegram Kanalları
+
+* [**Çince**](https://t.me/sherpa_cash_cn)
+* [**Farsça**](https://t.me/sherpa_cash_persian)
+* [**Fransızca**](https://t.me/sherpa_cash_fr)
+* [**İngilizce**](https://t.me/sherpa_cash)
+* [**İspanyolca**](https://t.me/sherpa_cash_spanish)
+* [**Japonca**](https://t.me/sherpa_cash_jp)
+* [**Türkçe**](https://t.me/sherpa_cash_turkey)

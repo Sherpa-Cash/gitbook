@@ -10,7 +10,7 @@ Since Tornado Cash has become the gold standard for privacy, our solution is to 
 
 The original Tornado Cash white paper can be found here:
 
-[**https://tornado.cash/audits/TornadoCash\_whitepaper\_v1.4.pdf**](https://tornado.cash/audits/TornadoCash_whitepaper_v1.4.pdf)\*\*\*\*
+[**https://tornado.cash/audits/TornadoCash\_whitepaper\_v1.4.pdf**](https://tornado.cash/audits/TornadoCash_whitepaper_v1.4.pdf)
 
 
 

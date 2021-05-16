@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Intro to Sherpa Cash](README.md)
-* [Road Map](road-map.md)
+* [Roadmap](road-map.md)
 
 ## How it Works
 
@@ -13,6 +13,7 @@
 
 * [Tokenomics](tokenomics-1/tokenomics/README.md)
   * [Airdrop](tokenomics-1/tokenomics/airdrop.md)
+  * [ICO](tokenomics-1/tokenomics/ICO.md)
   * [Anonymity Mining](tokenomics-1/tokenomics/anonymity_mining.md)
 
 ## Security
@@ -30,4 +31,3 @@
 * [GitHub](https://github.com/Sherpa-Cash)
 * [Telegram](https://t.me/sherpa_cash)
 * [Discord](https://discord.com/invite/8bWeGSB4Zx)
-

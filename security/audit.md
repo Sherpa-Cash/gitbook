@@ -4,7 +4,7 @@ Sherpa Cash is a fork of Tornado Cash. Other than modifying variable names and c
 
 Tornado Cash has been audited by a group of experts from [ABDK Consulting](https://www.abdk.consulting/), specializing in zero-knowledge, cryptography, and smart contracts.
 
-During the audit, no critical issues were found and all outstanding issues were fixed. The results can be found here:
+During the audit, no critical issues were found, and all outstanding issues were fixed. The results can be found here:
 
 * Cryptographic review: [https://tornado.cash/audits/TornadoCash\_cryptographic\_review\_ABDK.pdf](https://tornado.cash/audits/TornadoCash_cryptographic_review_ABDK.pdf)
 * Smart contract audit: [https://tornado.cash/audits/TornadoCash\_contract\_audit\_ABDK.pdf](https://tornado.cash/audits/TornadoCash_contract_audit_ABDK.pdf)
