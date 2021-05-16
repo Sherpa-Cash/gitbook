@@ -1,8 +1,6 @@
 # How It Works
 
-Transactions in a blockchain ultimately form one long chain, which makes it easy to trace. This means your transactions on Avalanche are publicly accesible through tools such as Avalanche Explorer.
-
-Sherpa Cash improves transaction privacy by breaking the on-chain link between the recipient and destination addresses. Thus, our protocol offers a way to transact without leaving a trail.
+Transactions in a blockchain ultimately form one long chain, which makes it easy to trace. This means your transactions on Avalanche are publicly accesible through tools such as Avalanche Explorer and Ava Scan. However, Sherpa Cash improves transaction privacy by breaking the on-chain link between the recipient and destination addresses. Thus, our protocol offers a way to transact without leaving a trail.
 
 It achieves this using a smart contract that accepts deposits for a certain token at a fixed denomination. For example, the 0.1 AVAX contract will only allow deposit and withdrawal of 0.1 AVAX. At launch we will have the following token and denomination combos available:
 
