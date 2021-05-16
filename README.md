@@ -45,6 +45,3 @@ As active contributors to the Avalanche community, we're here to be your Sherpas
 * \*\*\*\*[**Spanish**](https://t.me/sherpa_cash_spanish)\*\*\*\*
 * \*\*\*\*[**Persian**](https://t.me/sherpa_cash_persian)\*\*\*\*
 * \*\*\*\*[**Turkish**](https://t.me/sherpa_cash_turkey)\*\*\*\*
-
-
-
