@@ -30,18 +30,18 @@ As active contributors to the Avalanche community, we're here to be your Sherpas
 
 ### Official Links
 
-* \*\*\*\*[**Website**](https://sherpa.cash)\*\*\*\*
-* \*\*\*\*[**Discord**](https://discord.com/invite/8bWeGSB4Zx)\*\*\*\*
-* \*\*\*\*[**Telegram**](https://t.me/sherpacash)\*\*\*\*
-* \*\*\*\*[**Twitter**](https://twitter.com/sherpa_cash)\*\*\*\*
-* \*\*\*\*[**Github**](https://github.com/Sherpa-Cash)\*\*\*\*
+* [**Website**](https://sherpa.cash)
+* [**Discord**](https://discord.com/invite/8bWeGSB4Zx)
+* [**Telegram**](https://t.me/sherpacash)
+* [**Twitter**](https://twitter.com/sherpa_cash)
+* [**Github**](https://github.com/Sherpa-Cash)
 
 ### International Telegram Channels
 
-* \*\*\*\*[**Chinese**](https://t.me/sherpa_cash_cn)\*\*\*\*
-* \*\*\*\*[**English**](https://t.me/sherpa_cash)\*\*\*\*
-* \*\*\*\*[**French**](https://t.me/sherpa_cash_fr)\*\*\*\*
-* \*\*\*\*[**Japanese**](https://t.me/sherpa_cash_jp)\*\*\*\*
-* \*\*\*\*[**Spanish**](https://t.me/sherpa_cash_spanish)\*\*\*\*
-* \*\*\*\*[**Persian**](https://t.me/sherpa_cash_persian)\*\*\*\*
-* \*\*\*\*[**Turkish**](https://t.me/sherpa_cash_turkey)\*\*\*\*
+* [**Chinese**](https://t.me/sherpa_cash_cn)
+* [**English**](https://t.me/sherpa_cash)
+* [**French**](https://t.me/sherpa_cash_fr)
+* [**Japanese**](https://t.me/sherpa_cash_jp)
+* [**Spanish**](https://t.me/sherpa_cash_spanish)
+* [**Persian**](https://t.me/sherpa_cash_persian)
+* [**Turkish**](https://t.me/sherpa_cash_turkey)
