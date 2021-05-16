@@ -1,8 +1,10 @@
 # How It Works
 
-Transactions in a blockchain ultimately form one long chain, which makes it easy to trace. Sherpa Cash improves transaction privacy by breaking the on-chain link between the recipient and destination addresses.
+Transactions in a blockchain ultimately form one long chain, which makes it easy to trace. This means your transactions on Avalanche are publicly accesible through tools such as Avalanche Explorer.
 
-It does this using a smart contract that accepts deposits for a certain token at a fixed denomination. For example, the 0.1 AVAX contract will only allow deposit and withdrawal of 0.1 AVAX. At launch we will have the following token and denomination combos available:
+Sherpa Cash improves transaction privacy by breaking the on-chain link between the recipient and destination addresses. Thus, our protocol offers a way to transact without leaving a trail.
+
+It achieves this using a smart contract that accepts deposits for a certain token at a fixed denomination. For example, the 0.1 AVAX contract will only allow deposit and withdrawal of 0.1 AVAX. At launch we will have the following token and denomination combos available:
 
 * 0.1 AVAX
 * 1 AVAX
@@ -23,7 +25,7 @@ sherpa-eth-0.1-1-0x07f00caa131a209ac0db1401be7f2f568d8a49f0459e92a5b9e28610ac71f
 ### **Withdrawing via Relayer**
 
 * The issue with withdrawing is that it requires gas. Gas is essentially AVAX that came from somewhere, i.e. it is traceable. What if Alice wants to withdraw to an address with a fresh transaction history?
-*  In that case, she can withdraw via a relayer. The relayer simply calls the withdraw function for her and then transfers the funds to her wallet with the gas fee deducted.
+*  In that case, she can withdraw via a relayer: The relayer simply calls the withdraw function for her and then transfers the funds to her wallet with the gas fee deducted.
 
 ### **Anonymity Set**
 
