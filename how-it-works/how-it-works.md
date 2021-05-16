@@ -34,7 +34,9 @@ sherpa-eth-0.1-1-0x07f00caa131a209ac0db1401be7f2f568d8a49f0459e92a5b9e28610ac71f
 
 ### Sounds like magic, but how does it do this?
 
-The secret sauce is all in the **note** that is generated when you deposit. Upon presenting the contract with your note, it first checks that your deposit was made, then it checks that you haven't spent your withdrawal already. How it does this is through zero-knowledge cryptography which is detailed in the original whitepaper. Once both checks pass, the contract then allows you to withdraw your funds.
+The secret sauce is all in the **note** that is generated when you deposit. Upon presenting the contract with your note, it first checks that your deposit was made, then it checks that you haven't spent your withdrawal already. Once both checks pass, the contract then allows you to withdraw your funds. And anonymity is accomplished through zk-SNARK proofs(\it stands for Zero-Knowledge Succinct Non-Interactive Argument of Knowledge\) which is detailed in the original whitepaper.
+
+Here's a quick trivia: Zcash uses the same form of cryptography. 
 
 
 
