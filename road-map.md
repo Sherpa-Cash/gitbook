@@ -8,7 +8,7 @@ description: The Sherpa Cash vision for the future
 
 * **✅ Form Core Team** - Recruit developers established Avalanche DeFi projects to form core Sherpa Cash team.
 * **✅ Launchpad Partner** - Research, contact, and establish relationship with reputable launchpad partner.
-* **Build V1 App** - Implement contracts, front-end, and branding of V1 app.
+* **✅ Build V1 App** - Implement contracts, front-end, and branding of V1 app.
 
 ### **May - June 2021:**
 
@@ -20,7 +20,7 @@ description: The Sherpa Cash vision for the future
 * **Anonymity Mining** - Implement Anonymity Mining program.
 * **Token Trackers** - Get SHERPA token listed on various token trackers \(CoinGecko, Defi Llama, Markr.io\)
 
-### July - August 2021
+### July - September 2021
 
 * **Subnet Integration** - Integrate with x-chain and Avalanche subnets
 * **Partnerships** - Form partnerships with projects across the Avalanche ecosystem
