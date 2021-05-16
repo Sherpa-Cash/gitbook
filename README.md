@@ -8,7 +8,7 @@ description: Private transactions on the Avalanche Network
 
 ### What is Sherpa Cash?
 
-Sherpa Cash is a fully decentralized protocol for private transactions based on zkSNARKS. It is a fork of Tornado Cash. The project and team are formed by engineers from established Avalanche DeFi projects.
+Sherpa Cash is a fully decentralized protocol for private transactions based on zkSNARKS. Our protocol is basically a proxy between the sender and receiver to keep transactions private and anonymous. It is also a fork of Tornado Cash. The project and team are formed by engineers from established Avalanche DeFi projects.
 
 ### The goal of Sherpa Cash
 
