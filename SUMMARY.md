@@ -6,6 +6,7 @@
 ## How it Works
 
 * [How It Works](how-it-works/how-it-works/README.md)
+  * [Trusted Ceremony](how-it-works/how-it-works/trusted-ceremony.md)
   * [Compliance](how-it-works/how-it-works/compliance.md)
 * [Whitepaper](how-it-works/whitepaper.md)
 
