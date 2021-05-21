@@ -12,7 +12,9 @@ We are airdropping 400,000 total SHERPA tokens to early users of Sherpa Cash and
 1500 users that filled out our social media airdrop form are randomly selected for 200 SHERPA.  
   
 **Trusted Ceremony Participants \(100,000 SHERPA\)**  
-To qualify, users will need to participate in our trusted ceremony process. Details to follow.
+To qualify, users will need to participate in our trusted ceremony process.   
+Read more here:  
+[https://medium.com/sherpa-cash/announcing-the-sherpa-cash-zk-snark-ceremony-27c67671f44a](https://medium.com/sherpa-cash/announcing-the-sherpa-cash-zk-snark-ceremony-27c67671f44a)
 
 **Early Users \(100,000 SHERPA\)**  
 To qualify, users will need to make a deposit transaction into the Sherpa Cash app. Qualifying wallets will be eligible to claim 100 SHERPA, capped at 1000 total wallets.
