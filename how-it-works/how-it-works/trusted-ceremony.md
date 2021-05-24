@@ -7,6 +7,8 @@ Details here:
 
 ## Instructions for participating
 
+Visit the following website in your browser: \(Website URL announced on Monday May 24th Pacific Time Zone\)
+
 ### 1. Click Contribute
 
 ![1. Click Contribute](../../.gitbook/assets/screen-shot-2021-05-20-at-11.53.37-pm.png)
