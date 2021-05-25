@@ -33,7 +33,7 @@ Visit the following website in your browser: [https://ceremony.sherpa.cash/](htt
 
 ![Wait for browser to generate random contribution](../../.gitbook/assets/screen-shot-2021-05-20-at-11.54.40-pm.png)
 
-### 5. You're done!
+### 5. Post attestation on Twitter \(optional\)
 
-![You&apos;re done!](../../.gitbook/assets/screen-shot-2021-05-20-at-11.56.31-pm.png)
+![](../../.gitbook/assets/screen-shot-2021-05-25-at-5.07.07-am.png)
 
