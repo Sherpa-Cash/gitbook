@@ -6,7 +6,7 @@ description: >-
 
 # Airdrop
 
-We are airdropping 400,000 total SHERPA tokens to early users of Sherpa Cash and delegators to our validator node.
+We are airdropping 600,000 total SHERPA tokens to early users of Sherpa Cash and delegators to our validator node.
 
 **Social Media Airdrop \(300,000 SHERPA\) - Ended on 5/13/21**  
 1500 users that filled out our social media airdrop form are randomly selected for 200 SHERPA.  
@@ -17,7 +17,7 @@ Read more here:
 [https://medium.com/sherpa-cash/announcing-the-sherpa-cash-zk-snark-ceremony-27c67671f44a](https://medium.com/sherpa-cash/announcing-the-sherpa-cash-zk-snark-ceremony-27c67671f44a)
 
 **Early Users \(100,000 SHERPA\)**  
-To qualify, users will need to make a deposit transaction into the Sherpa Cash app. Qualifying wallets will be eligible to claim 100 SHERPA, capped at 1000 total wallets.
+To qualify, users will need to make a deposit transaction into the Sherpa Cash app. 
 
 **Delegators \(100,000 SHERPA\)**  
 To qualify, users will need to delegate to our validator node once it has been set up. Details to follow.
