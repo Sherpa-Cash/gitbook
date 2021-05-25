@@ -25,7 +25,7 @@ Visit the following website in your browser: [https://ceremony.sherpa.cash/](htt
 
 ![Click Contribute](../../.gitbook/assets/screen-shot-2021-05-25-at-5.06.19-am.png)
 
-### 5. Enter a random string
+### 5. Enter a random string \(ex: "abc123"\)
 
 ![Enter a random string for entropy](../../.gitbook/assets/screen-shot-2021-05-20-at-11.46.24-pm.png)
 
