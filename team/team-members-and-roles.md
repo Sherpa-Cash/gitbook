@@ -10,7 +10,7 @@ The team is made up of well-known and trusted members of the Avalanche community
 | :--- | :--- | :--- |
 | [HariSeldon](https://twitter.com/jtrollip)  | Project Manager | Pangolin Exchange |
 | [Metafox](https://twitter.com/s_metafox) | UI/UX Designer | ImPos, Carlton United Breweries, CBus Super |
-| [Best\_coder\_NA](https://twitter.com/Best_coder_NA)  | Developer, Community Manager | Snowball, Pangolin Exchange |
+| [Best\_coder\_NA](https://twitter.com/Best_coder_NA)  | Developer, Community Manager | Pangolin Exchange |
 | [The Abominable Sasquatch](https://twitter.com/AbominableSas) | Advisor | Snowball |
 | Benny | Developer | Pangolin Exchange |
 | [Tyler Smith](https://twitter.com/tcrypt25519) | Advisor | AvaLabs, Cryptography |
