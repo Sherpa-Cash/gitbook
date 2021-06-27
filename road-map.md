@@ -21,7 +21,7 @@ description: The Sherpa Cash vision for the future
 * **Anonymity Mining** - Implement Anonymity Mining program.
 * **Token Trackers** - Get SHERPA token listed on various token trackers \(CoinGecko, Defi Llama, Markr.io\)
 
-### July - September 2021
+### Q4 2021
 
 * **Subnet Integration** - Integrate with x-chain and Avalanche subnets
 * **Partnerships** - Form partnerships with projects across the Avalanche ecosystem
