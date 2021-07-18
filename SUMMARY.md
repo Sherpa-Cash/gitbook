@@ -24,6 +24,10 @@
 
 * [Team Members and Roles](team/team-members-and-roles.md)
 
+## Contracts
+
+* [Contract addresses](contracts/contract-addresses.md)
+
 ---
 
 * [Website](https://sherpa.cash)
