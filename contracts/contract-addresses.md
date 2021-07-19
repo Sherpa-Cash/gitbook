@@ -12,8 +12,8 @@
 | TreeUpdateVerifier | Mainnet | [0x70e7ab38FFb3D10aA96CEB9c9Cc3Ec79c9A49E87](https://cchain.explorer.avax.network/address/0x70e7ab38FFb3D10aA96CEB9c9Cc3Ec79c9A49E87/transactions) |
 | Hasher2 | Mainnet | [0x92A99C3e55b7e47E3C76Ff8D24B508f99B316E12](https://cchain.explorer.avax.network/address/0x92A99C3e55b7e47E3C76Ff8D24B508f99B316E12/transactions) |
 | BatchTreeUpdateVerifier | Mainnet | [0xC13BC929Ce89C4FAD812fBdbB98D920C1547050c](https://cchain.explorer.avax.network/address/0xC13BC929Ce89C4FAD812fBdbB98D920C1547050c/transactions) |
-| SherpaTrees | Mainnet | [0x74c1582e4487b4039F4203F4DC64cE5150E2Ae46](https://cchain.explorer.avax.network/address/0x74c1582e4487b4039F4203F4DC64cE5150E2Ae46/transactions) |
-| AdminUpgradeableProxy | Mainnet | [0x04B841C50EadF7D3ee3cDaaF384Db961A3ACD61B](https://cchain.explorer.avax.network/address/0x04B841C50EadF7D3ee3cDaaF384Db961A3ACD61B/transactions) |
+| SherpaTrees | Mainnet | [0x4E6Fc2434252dB414290f516066394BF2291CF4E](https://cchain.explorer.avax.network/address/0x4E6Fc2434252dB414290f516066394BF2291CF4E/transactions) |
+| AdminUpgradeableProxy | Mainnet | [0x489BF366545EAA373d2409FA138dc8D4b07F0E6A](https://cchain.explorer.avax.network/address/0x489BF366545EAA373d2409FA138dc8D4b07F0E6A/transactions) |
 | SherpaProxy | Mainnet | [0x171Fb28ebfFcb2737E530E1Fd48CB4Ef12E5031e](https://cchain.explorer.avax.network/address/0x171Fb28ebfFcb2737E530E1Fd48CB4Ef12E5031e/transactions) |
 
 SherpaProxy is currently unverified due to issues with the C-Chain explorer. We aim to resolve this ASAP.
