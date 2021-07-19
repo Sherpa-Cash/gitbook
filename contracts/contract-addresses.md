@@ -3,10 +3,10 @@
 | Contract | Network | Contract Address |
 | :--- | :--- | :--- |
 | Hasher | Mainnet | 0x11735d37F9f4833d6fC6C81634e24D5CE25AfE1D |
-| Verifier | Mainnet | 0x67065F6D07a6a639650B85b6f8710E50EE2Fd92c |
-| ETHSherpa 10 | Mainnet | 0x9fE797424040EedCa1A8a0B8E3F7B95d1088707C |
-| ETHSherpa 100 | Mainnet | 0xB3946A8Cf2Bfd3bfee72308de67C91af9205639c |
-| ETHSherpa 500 | Mainnet | 0xdA7528fE6d903D0aa5d040F7cD11E038Ff61da79 |
+| Verifier | Mainnet | 0xFC0829E792b0D10DF95B895d56FaD4712DA30B25 |
+| ETHSherpa 10 | Mainnet | 0xe1376DeF383D1656f5a40B6ba31F8C035BFc26Aa |
+| ETHSherpa 100 | Mainnet | 0x7CE57f6a5a135eb1a8e9640Af1eff9665ade00D9 |
+| ETHSherpa 500 | Mainnet | 0x6ceB170e3ec0fAfaE3Be5A02FEFb81F524FE85C5 |
 | RewardVerifier | Mainnet | 0x3F135C78508C7f3ec7Ac055f7BDc0139a9691041 |
 | WithdrawVerifier | Mainnet | 0x7Cd20e007Feec4e3Aa9a93fA7087f6588C642411 |
 | TreeUpdateVerifier | Mainnet | 0x70e7ab38FFb3D10aA96CEB9c9Cc3Ec79c9A49E87 |
@@ -16,5 +16,5 @@
 | AdminUpgradeableProxy | Mainnet | 0x04B841C50EadF7D3ee3cDaaF384Db961A3ACD61B |
 | SherpaProxy | Mainnet | 0xd3B5dA1A89a7f2F653A7FacB68170Eb9E18c1a4b |
 
-**Please note** the Mainnet contracts have not been verified yet
+SherpaProxy is currently unverified due to issues with the C-Chain explorer. We aim to resolve this ASAP.
 
