@@ -2,6 +2,7 @@
 
 | Contract | Network | Contract Address |
 | :--- | :--- | :--- |
+| SHERPA Token | Mainnet | 0xa5E59761eBD4436fa4d20E1A27cBa29FB2471Fc6  |
 | Hasher | Mainnet | [0x11735d37F9f4833d6fC6C81634e24D5CE25AfE1D](https://cchain.explorer.avax.network/address/0x11735d37F9f4833d6fC6C81634e24D5CE25AfE1D/transactions) |
 | Verifier | Mainnet | [0xFC0829E792b0D10DF95B895d56FaD4712DA30B25](https://cchain.explorer.avax.network/address/0xFC0829E792b0D10DF95B895d56FaD4712DA30B25/transactions) |
 | ETHSherpa 10 | Mainnet | [0xe1376DeF383D1656f5a40B6ba31F8C035BFc26Aa](https://cchain.explorer.avax.network/address/0xe1376DeF383D1656f5a40B6ba31F8C035BFc26Aa/transactions) |
