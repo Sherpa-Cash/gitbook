@@ -8,9 +8,9 @@ Transactions in a blockchain ultimately form one long chain, which makes it easy
 
 It does this using a smart contract that accepts deposits for a certain token at a fixed denomination. For example, the 1 AVAX contract will only allow deposit and withdrawal of 1 AVAX. At launch we will have the following token and denomination combos available:
 
-* 1 AVAX
 * 10 AVAX
 * 100 AVAX
+* 500 AVAX
 
 Once the funds are deposited, the user will receive a "note", which is proof or claim to your deposited funds. This note is then used by another address to withdraw the same amount of funds that you deposited. As a result, you will have transferred funds from one address to another address without there being a direct link between the two addresses. 
 
