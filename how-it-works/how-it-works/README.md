@@ -6,7 +6,7 @@ description: Overview of how privacy transactions work
 
 Transactions in a blockchain ultimately form one long chain, which makes it easy to trace. Sherpa Cash improves transaction privacy by breaking the on-chain link between the recipient and destination addresses.
 
-It does this using a smart contract that accepts deposits for a certain token at a fixed denomination. For example, the 1 AVAX contract will only allow deposit and withdrawal of 1 AVAX. At launch we will have the following token and denomination combos available:
+It does this using a smart contract that accepts deposits for a certain token at a fixed denomination. For example, the 10 AVAX contract will only allow deposit and withdrawal of 10 AVAX. At launch we will have the following token and denomination combos available:
 
 * 10 AVAX
 * 100 AVAX
