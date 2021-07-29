@@ -14,8 +14,8 @@ description: The Sherpa Cash vision for the future
 
 ### **Q3 2021:**
 
-* **Beta Testing -** Beta test the app on Fuji testnet with a group of testers
-* **Token Launch -** Create the SHERPA token & distribute tokens through partner projects \(Penguin Finance & Snowball Finance\)
+* **✅ Beta Testing -** Beta test the app on Fuji testnet with a group of testers
+* **✅ Token Launch -** Create the SHERPA token & distribute tokens through partner projects \(Penguin Finance & Snowball Finance\)
 * **Main net Launch** - Launch the Sherpa Cash app on Avalanche main net
 * **Airdrops** - Airdrop to early users, trusted ceremony participants, delegators, and Tornado.
 * **Anonymity Mining** - Implement Anonymity Mining program.
