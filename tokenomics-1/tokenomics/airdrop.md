@@ -16,9 +16,9 @@ To qualify, users will need to participate in our trusted ceremony process.
 Read more here:  
 [https://medium.com/sherpa-cash/announcing-the-sherpa-cash-zk-snark-ceremony-27c67671f44a](https://medium.com/sherpa-cash/announcing-the-sherpa-cash-zk-snark-ceremony-27c67671f44a)
 
-**Early Users \(100,000 SHERPA\) - Not started**  
+**Early Users - Not started**  
 To qualify, users will need to make a deposit transaction into the Sherpa Cash app. 
 
-**Delegators \(100,000 SHERPA\) - Not started**  
+**Delegators - Not started**  
 To qualify, users will need to delegate to our validator node once it has been set up. Details to follow.
 
