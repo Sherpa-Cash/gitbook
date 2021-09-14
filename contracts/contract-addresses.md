@@ -17,5 +17,3 @@
 | AdminUpgradeableProxy | Mainnet | [0x489BF366545EAA373d2409FA138dc8D4b07F0E6A](https://cchain.explorer.avax.network/address/0x489BF366545EAA373d2409FA138dc8D4b07F0E6A/transactions) |
 | SherpaProxy | Mainnet | [0x171Fb28ebfFcb2737E530E1Fd48CB4Ef12E5031e](https://cchain.explorer.avax.network/address/0x171Fb28ebfFcb2737E530E1Fd48CB4Ef12E5031e/transactions) |
 
-SherpaProxy is currently unverified due to issues with the C-Chain explorer. We aim to resolve this ASAP.
-
