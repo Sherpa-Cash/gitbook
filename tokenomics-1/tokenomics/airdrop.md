@@ -16,7 +16,7 @@ To qualify, users will need to participate in our trusted ceremony process.
 Read more here:  
 [https://medium.com/sherpa-cash/announcing-the-sherpa-cash-zk-snark-ceremony-27c67671f44a](https://medium.com/sherpa-cash/announcing-the-sherpa-cash-zk-snark-ceremony-27c67671f44a)
 
-**Early Users - Not started**  
+**Early Users - 9/14/21 to 10/1/21**  
 To qualify, users will need to make a deposit transaction into the Sherpa Cash app. 
 
 **Delegators - Not started**  
