@@ -6,7 +6,7 @@ description: >-
 
 # Airdrop
 
-We are airdropping 450,000 total SHERPA tokens to early users of Sherpa Cash and delegators to our validator node.
+We are airdropping 450,000 total SHERPA tokens to social media participants, trusted ceremony participants, early users of Sherpa Cash, and delegators to our validator node.
 
 **Social Media Airdrop \(300,000 SHERPA\) - Ended on 5/13/21**  
 1500 users that filled out our social media airdrop form are randomly selected for 200 SHERPA.  
